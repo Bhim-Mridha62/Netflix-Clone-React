@@ -1,6 +1,7 @@
 {
   "name": "netflix-clone",
   "version": "0.1.0",
+  "homepage": "https://Bhim-Mridha62.github.io/Netflix-Clone-React",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
